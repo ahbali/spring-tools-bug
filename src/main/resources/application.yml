@@ -1,5 +1,5 @@
 spring:
     application:
         name: demo
-logging:
-  config: logback-spring.xml
+# logging:
+#   config: logback-spring.xml
